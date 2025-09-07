@@ -1,5 +1,4 @@
-# TrOCR
-📝 TrOCR Image Text Matcher with Notepad Verification
+
 # 📝 TrOCR Image Text Matcher with Notepad Verification
 
 This project is a **Streamlit application** that uses Microsoft’s **TrOCR (Transformer OCR)** model to extract and compare text from two uploaded images.  
